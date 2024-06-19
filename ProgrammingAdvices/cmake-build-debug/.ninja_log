@@ -1,0 +1,5 @@
+# ninja log v6
+338	428	7405352899684673	Documents.exe	6fcd5a7e478a752b
+2	310	7405353953126290	build.ninja	6028fe9d1e385294
+3	475	7405351673393826	CMakeFiles/Documents.dir/problem_1.cpp.obj	9d47e31d24429a1d
+21	337	7405352896522877	CMakeFiles/Documents.dir/problem_2.cpp.obj	89d3632e0bfcedf2
