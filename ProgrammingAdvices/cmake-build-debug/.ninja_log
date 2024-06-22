@@ -1,5 +1,8 @@
 # ninja log v6
-338	428	7405352899684673	Documents.exe	6fcd5a7e478a752b
-2	310	7405353953126290	build.ninja	6028fe9d1e385294
-3	475	7405351673393826	CMakeFiles/Documents.dir/problem_1.cpp.obj	9d47e31d24429a1d
-21	337	7405352896522877	CMakeFiles/Documents.dir/problem_2.cpp.obj	89d3632e0bfcedf2
+378	560	7406918716114004	Documents.exe	bea97bd1061581bf
+4	251	7407428212076076	build.ninja	f0b7dd1684ef9d64
+1	378	7406918712333201	CMakeFiles/Documents.dir/problem_3.cpp.obj	c15bb23a1ea82279
+10	231	7405359661210120	CMakeFiles/Documents.dir/problem_2.cpp.obj	911d20673ee4faf0
+3	1465	7405803412130497	CMakeFiles/Documents.dir/problem_1.cpp.obj	1d75a8b9974b010d
+17	680	7407965148021600	CMakeFiles/Documents.dir/problem_3.cpp.obj	c15bb23a1ea82279
+680	947	7407965154650992	Documents.exe	bea97bd1061581bf
