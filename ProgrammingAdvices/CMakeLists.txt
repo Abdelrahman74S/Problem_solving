@@ -3,4 +3,6 @@ project(Documents)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Documents probleam_5.cpp)
+add_executable(Documents
+
+        problem_7.cpp)
