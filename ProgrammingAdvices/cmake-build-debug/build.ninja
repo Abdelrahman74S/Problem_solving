@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/abdob.MSIME/Desktop/programming/c++/Problem_solv
 
 build cmake_object_order_depends_target_Documents: phony || CMakeFiles/Documents.dir
 
-build CMakeFiles/Documents.dir/problem_25.cpp.obj: CXX_COMPILER__Documents_unscanned_Debug C$:/Users/abdob.MSIME/Desktop/programming/c++/Problem_solving/ProgrammingAdvices/problem_25.cpp || cmake_object_order_depends_target_Documents
-  DEP_FILE = CMakeFiles\Documents.dir\problem_25.cpp.obj.d
+build CMakeFiles/Documents.dir/problem_28.cpp.obj: CXX_COMPILER__Documents_unscanned_Debug C$:/Users/abdob.MSIME/Desktop/programming/c++/Problem_solving/ProgrammingAdvices/problem_28.cpp || cmake_object_order_depends_target_Documents
+  DEP_FILE = CMakeFiles\Documents.dir\problem_28.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Documents.dir
   OBJECT_FILE_DIR = CMakeFiles\Documents.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Documents.dir/problem_25.cpp.obj: CXX_COMPILER__Documents_unsca
 #############################################
 # Link the executable Documents.exe
 
-build Documents.exe: CXX_EXECUTABLE_LINKER__Documents_Debug CMakeFiles/Documents.dir/problem_25.cpp.obj
+build Documents.exe: CXX_EXECUTABLE_LINKER__Documents_Debug CMakeFiles/Documents.dir/problem_28.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Documents.dir
