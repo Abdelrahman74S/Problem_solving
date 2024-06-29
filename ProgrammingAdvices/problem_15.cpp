@@ -15,7 +15,7 @@ void print(float x){
 }
 
 int main(){
-   float x,y;
+    float x,y;
     readnum(x,y);
     print(area(x,y));
 }
