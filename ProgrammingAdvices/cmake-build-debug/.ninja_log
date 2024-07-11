@@ -1,12 +1,12 @@
 # ninja log v6
 4	264	7413722576798999	CMakeFiles/Documents.dir/problem_22.cpp.obj	e8cfe010c8a323cf
-212	273	7414463802976108	Documents.exe	15b73ede756939c1
+354	475	7424420937183682	Documents.exe	6eefb36d7740c2c1
 4	212	7409378716580606	CMakeFiles/Documents.dir/problem_3.cpp.obj	c15bb23a1ea82279
-1	177	7417178281449916	build.ninja	f0b7dd1684ef9d64
+16	597	7424424740543127	build.ninja	f0b7dd1684ef9d64
 5	212	7414463800906629	CMakeFiles/Documents.dir/problem_32.cpp.obj	e4a0c9a6572c514d
 4	482	7408408001113878	CMakeFiles/Documents.dir/problem_2.cpp.obj	911d20673ee4faf0
 1	198	7409594450517635	CMakeFiles/Documents.dir/problem_4.cpp.obj	3ce06c73d0059155
-3	1465	7405803412130497	CMakeFiles/Documents.dir/problem_1.cpp.obj	1d75a8b9974b010d
+3	410	7418881836145469	CMakeFiles/Documents.dir/problem_1.cpp.obj	1d75a8b9974b010d
 4	219	7409388054104827	CMakeFiles/Documents.dir/probleam_5.cpp.obj	b87248f60a33a682
 4	246	7409578478511946	CMakeFiles/Documents.dir/problem_6.cpp.obj	812c6bfcb0755b13
 4	261	7411141842281397	CMakeFiles/Documents.dir/problem_7.cpp.obj	360edbb62fb46dbb
@@ -30,8 +30,10 @@
 1	251	7413714149056604	CMakeFiles/Documents.dir/problem_19.cpp.obj	e607b0631be17bc2
 2	343	7413807342273544	CMakeFiles/Documents.dir/problem_24.cpp.obj	a11047746ab3f46c
 4	211	7413864508765853	CMakeFiles/Documents.dir/problem_27.cpp.obj	22ac805ca7eba5b3
-14	507	7417178281449916	build.ninja	f0b7dd1684ef9d64
-3	554	7417178281815623	CMakeFiles/Documents.dir/problem_35.cpp.obj	c4a3bf922571c14b
-555	790	7417178287333787	Documents.exe	12c23ec83cec49bf
 8	386	7417178793562174	CMakeFiles/Documents.dir/problem_35.cpp.obj	c4a3bf922571c14b
-387	500	7417178797345680	Documents.exe	12c23ec83cec49bf
+2	335	7417237985746884	CMakeFiles/Documents.dir/problem_36.cpp.obj	9c98d6250e4d6d05
+4	239	7417999529924787	CMakeFiles/Documents.dir/problem_37.cpp.obj	aaf0da9f62107daa
+8	354	7424420933712812	CMakeFiles/Documents.dir/problem_38.cpp.obj	b3fd6f7076734548
+2	259	7424424740543127	build.ninja	f0b7dd1684ef9d64
+3	357	7424424740916160	CMakeFiles/Documents.dir/problem_39.cpp.obj	f3c7e052d94e9528
+358	458	7424424744461362	Documents.exe	20713c7428e5d6a6
