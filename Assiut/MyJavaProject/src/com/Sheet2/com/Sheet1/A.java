@@ -1,3 +1,5 @@
+package com.Sheet1;
+
 import java.util.Scanner;
 
 public class A {
@@ -6,7 +8,7 @@ public class A {
             long n = Input.nextLong();
 
             for(int i =1;i<=n;i++){
-                System.out.println(n);
+                System.out.println(i);
             }
         }
     }
