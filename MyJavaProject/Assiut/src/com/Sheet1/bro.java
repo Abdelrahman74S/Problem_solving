@@ -4,10 +4,12 @@ public class bro {
 
     public static void main(String[] args) {
         try(Scanner Input = new Scanner(System.in)){
+        @SuppressWarnings("unused")
         String str1 = Input.next();
          String str2 = Input.next();
 
-         String str3 = Input.next();
+         @SuppressWarnings("unused")
+        String str3 = Input.next();
          String str4 = Input.next();
          
          if(str2.equals(str4) ){

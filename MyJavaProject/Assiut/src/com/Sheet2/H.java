@@ -1,4 +1,3 @@
-package com.Sheet1;
 
 import java.util.Scanner;
  
